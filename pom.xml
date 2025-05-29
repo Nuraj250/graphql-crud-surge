@@ -12,6 +12,7 @@
 	<artifactId>graphql-crud-surge</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>graphql-crud-surge</name>
+	<packaging>jar</packaging>
 	<description>Demo project for Spring Boot</description>
 	<url/>
 	<licenses>
