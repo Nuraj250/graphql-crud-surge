@@ -3,7 +3,7 @@ package com.example.graphql_crud_surge.controller;
 import com.example.graphql_crud_surge.dto.UserInput;
 import com.example.graphql_crud_surge.model.User;
 import com.example.graphql_crud_surge.service.UserService;
-import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.beans.factory.annotation.*;
 import org.springframework.graphql.data.method.annotation.*;
 import org.springframework.stereotype.Controller;
 
