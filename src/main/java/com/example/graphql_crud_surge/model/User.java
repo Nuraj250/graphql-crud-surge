@@ -1,6 +1,5 @@
 package com.example.graphql_crud_surge.model;
 
-import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.*;
 import lombok.*;
 
